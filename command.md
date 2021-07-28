@@ -8,7 +8,7 @@
 - [ ] `cd Coding` to move into that folder
 - [ ] Make a directory called `generation` and navigate into it
 - [ ] Create a new file called `index.html` with the correct command line argument
-- [ ] open the nano editor via `nano index.html`
+- [ ] Open the nano editor via `nano index.html`
 - [ ] Copy and paste the following code into the nano editor and AFTERWARDS `Write Out`, hit `Enter` and `Exit`
 ```
 <!DOCTYPE html>
