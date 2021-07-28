@@ -33,7 +33,7 @@
 </body>
 </html>
 ```
-- [ ] After returning to the prompt enter `explorer index.html`
+- [ ] After returning to the prompt enter `explorer index.html` (if Windows) or `open index.html` (if MacOS)
 
 ## **Bonus** 
 
