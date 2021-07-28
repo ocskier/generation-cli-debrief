@@ -26,6 +26,7 @@
             min-height: 1.5em;
             padding: 2rem 2rem 1rem;
             margin-top: 0;
+            }
     </style>
 </head>
 <body>
