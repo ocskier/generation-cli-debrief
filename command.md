@@ -19,6 +19,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style type="text/css">
+        body {
+            margin: 0;
+            padding: 0;
+        }
         h1 {
             font-size: 4.5rem;
             text-align: center;
@@ -26,7 +30,7 @@
             min-height: 1.5em;
             padding: 2rem 2rem 1rem;
             margin-top: 0;
-            }
+        }
     </style>
 </head>
 <body>
