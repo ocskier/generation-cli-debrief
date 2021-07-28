@@ -2,11 +2,10 @@
 
 - [ ] Open up a new Git Bash (Windows) or Terminal(MacOS) window on your PC
 - [ ] Enter the command  `cd ~` to move directly to your home user directory
-- [ ] Enter the command `ls` to confirm that you have a `Documents` folder in the current working directory
-- [ ] Move down into the `Documents` directory via the `cd` command
-- [ ] Make a directory called `Coding` inside Documents
-- [ ] `cd Coding` to move into that folder
-- [ ] Make a directory called `generation` and navigate into it
+- [ ] Enter the command `ls` to confirm that you have a `Desktop` (MacOS) or `OneDrive` (Windows) folder in the current working directory
+- [ ] (Only for Windows)! Move into the `OneDrive` (Windows) directory via the `cd` command
+- [ ] Move down into the `Desktop` directory via the `cd` command
+- [ ] Make a directory called `cli-test` and navigate into it
 - [ ] Create a new file called `index.html` with the correct command line argument
 - [ ] Open the nano editor via `nano index.html`
 - [ ] Copy and paste the following code into the nano editor and AFTERWARDS `Write Out`, hit `Enter` and `Exit`
